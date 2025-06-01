@@ -4,7 +4,7 @@
 
 ## 安装
 
-确保已安装[pnpm](https://pnpm.io/)包管理器，然后运行：
+确保已安装 [pnpm](https://pnpm.io/) 包管理器，然后运行：
 
 ```bash
 pnpm install
